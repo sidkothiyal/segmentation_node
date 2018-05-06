@@ -1,2 +1,2 @@
 # segmentation_node
-Node to perform segmentation
+Node to perform segmentation for point cloud data
